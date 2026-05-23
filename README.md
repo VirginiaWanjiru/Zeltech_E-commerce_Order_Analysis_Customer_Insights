@@ -31,3 +31,7 @@ Covers
 - order_items: order_item_id, order_id, product_id, product_name, category, quantity, unit_price
 - products: product_id, product_name, category, price
 
+
+How to check for customers who have ordered more than three times but havent ordered for the last 30 days - customer churning : 
+WHERE COUNT(o.order_id) > 3 AND MAX(o.order_date) < CURRENT_DATE - INTERVAL '30 days'
+
