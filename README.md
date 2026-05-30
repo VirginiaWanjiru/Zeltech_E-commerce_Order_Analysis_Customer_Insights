@@ -1,4 +1,4 @@
-# Case-Study-1-E-commerce-Order-Analysis-Customer-Insights
+# Zeltech E-commerce Order Analysis Customer Insights
 SQL analysis of customer behavior, order trends, and product performance
 
 <br/>
