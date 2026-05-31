@@ -20,10 +20,10 @@ Covers
  <br/>DuckDB
 
 ## Key Findings
-- **Top Customer: Carol White
-- **Repeat Customers: Alice Johnson, Bob Smith  and Carol White
-- **Top Category: Electronics with 11 items sold 
-- **Churn Risk Customers: David Brown, Alice Johnson , Emma Davis - Its been long since they bought from the store 
+- Top Customer: Carol White
+- Repeat Customers: Alice Johnson, Bob Smith  and Carol White
+- Top Category: Electronics with 11 items sold 
+- Churn Risk Customers: David Brown, Alice Johnson , Emma Davis - Its been long since they bought from the store 
 
 ## Database Schema
 - customers: customer_id, customer_name, email, registration_date, country
